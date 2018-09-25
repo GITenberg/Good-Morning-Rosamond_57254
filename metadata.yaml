@@ -1,0 +1,23 @@
+_repo: Good-Morning-Rosamond_57254
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Skinner, Constance Lindsay
+    alias: Skinner, Constance L. (Constance Lindsay)
+    birthdate: 1882
+    deathdate: 1939
+    gutenberg_agent_id: '1107'
+    url: http://www.gutenberg.org/2009/agents/1107
+description: ''
+gutenberg_issued: '2018-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '"Good-Morning, Rosamond!"'
+url: http://www.gutenberg.org/ebooks/57254
